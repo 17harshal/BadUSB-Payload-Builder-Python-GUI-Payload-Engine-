@@ -10,3 +10,11 @@ Tools/Technologies
 * Tkinter (for GUI)
 * Custom HID keycode mapper
 * Optional: Save/load payloads from .txt files
+
+File Structure
+badusb_builder/
+├── main.py
+├── keycodes.py
+├── payload_sender.py
+├── payloads/
+│   └── example.txt
