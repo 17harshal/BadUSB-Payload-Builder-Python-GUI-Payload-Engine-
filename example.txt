@@ -1,0 +1,5 @@
+STRING whats up Harshal
+DELAY 500
+ENTER
+STRING sudo apt install nmap -y
+ENTER
